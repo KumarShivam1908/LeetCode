@@ -10,8 +10,6 @@ public:
         ListNode* prev = nullptr;
         ListNode* slow = head;
         ListNode* fast = head;
-
-        // Use two pointers: fast moves twice as fast as slow
         while (fast != nullptr && fast->next != nullptr) {
             prev = slow;
             slow = slow->next;
