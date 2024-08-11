@@ -20,6 +20,9 @@ public:
         temp = head;
         int mid = ((size/2)+1);
         int k = 0 ;
+        if(head == nullptr){
+            return head;
+        }
         while(temp != nullptr){
             k++;
             if(k==mid){
