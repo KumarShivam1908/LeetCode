@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KumarShivam1908/LeetCode/tree/master/0002-add-two-numbers) |
+| [0319-bulb-switcher](https://github.com/KumarShivam1908/LeetCode/tree/master/0319-bulb-switcher) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KumarShivam1908/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KumarShivam1908/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/KumarShivam1908/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
