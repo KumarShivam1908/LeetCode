@@ -125,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/KumarShivam1908/LeetCode/tree/master/0319-bulb-switcher) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KumarShivam1908/LeetCode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KumarShivam1908/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
